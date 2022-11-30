@@ -1,4 +1,4 @@
-# spring-boot-client-servlet-context-path-example
+# spring-boot-client-servlet-context-path-example.
 Demonstrating SBA client registration issue when changing contextPath with ServletRegistrationBean..
 
 ### Steps to run  
