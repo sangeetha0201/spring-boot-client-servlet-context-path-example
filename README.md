@@ -1,5 +1,5 @@
 # spring-boot-client-servlet-context-path-example.
-Demonstrating SBA client registration issue when changing contextPath with ServletRegistrationBean..
+Demonstrating SBA client registration issue when changing contextPath with ServletRegistrationBean....
 
 ### Steps to run  
 * Start Spring Boot Admin Server on port 8080
